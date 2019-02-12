@@ -1,0 +1,9 @@
+name: ScaredPluginHider
+main: tokyo.nikokingames.scaredpluginhider.Main
+version: 1.0
+author: ScaredToBeLonely
+
+commands:
+  ScaredPluginHider:
+  ccleaner:
+    description: Clear the chat.
